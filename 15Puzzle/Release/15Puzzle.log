@@ -1,0 +1,30 @@
+﻿Сборка начата 21.02.2015 0:25:04.
+     1>Проект "D:\Document\Програмирование\C++\15Puzzle\15Puzzle\15Puzzle.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Document\Програмирование\C++\15Puzzle\Release\15Puzzle.exe" /INCREMENTAL:NO /NOLOGO Glaux.lib GLU32.lib glui32.lib glut32.lib OPENGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Document\Програмирование\C++\15Puzzle\Release\15Puzzle.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Document\Програмирование\C++\15Puzzle\Release\15Puzzle.lib" /MACHINE:X86 /SAFESEH Release\Board.obj
+         Release\main.obj
+         Release\OpenGL.obj
+         Создание кода
+         Создание кода завершено
+     1>Glaux.lib(image.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>Glaux.lib(tkimage.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>Glaux.lib(tkdib.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>Glaux.lib(tk.obj) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>glut32.lib(glut32.dll) : error LNK2026: небезопасный модуль для образа SAFESEH.
+     1>D:\Document\Програмирование\C++\15Puzzle\Release\15Puzzle.exe : fatal error LNK1281: Не удается создать образ SAFESEH.
+     1>Сборка проекта "D:\Document\Програмирование\C++\15Puzzle\15Puzzle\15Puzzle.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.46
